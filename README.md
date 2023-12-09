@@ -1,3 +1,5 @@
+# mplemented deployment in monolithic & microservices architecture using AWS EC2 (t2-micro) instances with Ubuntu AMI. For monolithic, WordPress & MySQL were co-deployed on a single instance; for microservices, split between two EC2 instances—one for WordPress and one for MySQL. Configured security groups and created a welcome page as the homepage in WordPress. 
+
 # infotrixTask
 cloud (aws) Internship task 1
 # Install apache server
